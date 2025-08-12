@@ -8,7 +8,7 @@
 
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
-    • DevOps / CI-CD / Gestion de conteneurs :<br> 
+    • DevOps / CI-CD / Gestion de conteneurs :   
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
@@ -16,10 +16,10 @@
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
     </a>
     <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
     </a>
     <a href="https://docs.ansible.com/" target="_blank">
-        <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+        <img src="https://img.shields.io/badge/ansible-%231A1918.svg?logo=ansible&logoColor=white" alt="Ansible" />
     </a>
     <a href="https://www.terraform.io/" target="_blank">
       <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
@@ -33,10 +33,10 @@
     </br>
     • Cloud Providers :<br> 
     <a href="https://aws.amazon.com/fr/" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt="AWS" />
     </a>
     <a href="https://azure.microsoft.com/fr-fr" target="_blank">
-      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt="Azure" />
     </a>
     </br>
     • Langages & Scripting :<br> 
