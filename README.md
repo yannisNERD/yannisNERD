@@ -6,6 +6,51 @@
 
 ## 💻 My Skills Set
 
+<div>
+    <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
+    • DevOps / CI-CD / Gestion de conteneurs :<br> 
+    <a href="https://git-scm.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    </a>
+    <a href="https://docs.ansible.com/" target="_blank">
+        <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    </a>
+    <a href="https://www.terraform.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
+    </a>
+    <a href="https://about.gitlab.com/" target="_blank">
+      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank">
+      <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    </a>
+    </br>
+    • Cloud Providers :<br> 
+    <a href="https://aws.amazon.com/fr/" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    </a>
+    <a href="https://azure.microsoft.com/fr-fr" target="_blank">
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    </a>
+    </br>
+    • Langages & Scripting :<br> 
+    <a href="https://fr.wikibooks.org/wiki/Programmation_Bash" target="_blank">
+        <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    </a>
+    <a href="https://learn.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.5" target="_blank">
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    </a>
+    
+</div>
 - DevOps / CI-CD / Gestion de conteneurs :<br>
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,ansible,terraform,gitlab,jenkins)](https://skillicons.dev)
 
@@ -13,24 +58,11 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 - Langages & Scripting :<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,powerShell,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python)](https://skillicons.dev)
 
+- Base de données / Gestion de données :
 ---
 
-## 📈 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLecart&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=CLecart&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" width="500" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🧠 Currently Learning
 
