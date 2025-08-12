@@ -8,21 +8,21 @@
 
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
-    • DevOps / CI-CD / Gestion de conteneurs :   
+    • DevOps / CI-CD / Gestion de conteneurs :<br>   
     <a href="https://git-scm.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </a>
     <a href="https://www.docker.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
     <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     </a>
     <a href="https://docs.ansible.com/" target="_blank">
-        <img src="https://img.shields.io/badge/ansible-%231A1918.svg?logo=ansible&logoColor=white" alt="Ansible" />
+        <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
     </a>
     <a href="https://www.terraform.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     </a>
     <a href="https://about.gitlab.com/" target="_blank">
       <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
@@ -33,10 +33,10 @@
     </br>
     • Cloud Providers :<br> 
     <a href="https://aws.amazon.com/fr/" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     </a>
     <a href="https://azure.microsoft.com/fr-fr" target="_blank">
-      <img src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     </a>
     </br>
     • Langages & Scripting :<br> 
@@ -51,14 +51,6 @@
     </a>
     
 </div>
-- DevOps / CI-CD / Gestion de conteneurs :<br>
-[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,ansible,terraform,gitlab,jenkins)](https://skillicons.dev)
-
-- Cloud Providers :<br>
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-
-- Langages & Scripting :<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,python)](https://skillicons.dev)
 
 - Base de données / Gestion de données :
 ---
