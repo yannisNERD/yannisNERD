@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Yannis+BONDONGA;je+suis+Ing%C3%A9nieur%2FConsultant+DevOps" alt="Typing SVG" /></a>
-</p>  
+</p>
+
+<p align="justify">
+  Après plusieurs années d’expérience en systèmes et réseaux et une spécialisation dans le DevOps, je reste animé par la volonté de relever des défis techniques ambitieux, d’automatiser et d’optimiser les infrastructures, et de contribuer activement à des projets innovants en environnement agile.
+</p>
 
 ---
 
@@ -62,11 +66,11 @@
     </a>
     </br>
     • Monitoring :<br>
-    <a href="https://mariadb.org/" target="_blank">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="Prometheus" />
+    <a href="https://prometheus.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
     </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Grafana" />
+    <a href="https://grafana.com/" target="_blank">
+        <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
     </a>
     </br>
     • Gestion de projet :<br>
@@ -82,36 +86,34 @@
 ---
 
 
-## 🧠 Currently Learning
+## 📚 En cours d’apprentissage
 
-- Building real-world fullstack apps with **Next.js App Router**
-- Advanced **Prisma ORM** patterns and database schema design
-- Schema validation & API security with **Zod**
-- Solid backend architecture with **Node.js** and **Go**
+- Infrastructure as Code avancée avec **Terraform** et **Ansible**
+- Observabilité complète avec **Prometheus** et **Grafana**
+- Sécurité des conteneurs et CI/CD
+- Automatisation de pipelines avec **GitLab CI/CD** et **Jenkins**
+- Cloud computing sur **AWS** (EKS, ECS, CloudWatch, IAM)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Full stack dev student (level 6 diploma)
-- 🌍 France | 43 y.o | Career switcher
+- 🎓 Ingénieur DevOps (Diplôme de niveau 5)
+- 🌍 France | 24 ans 
 - 🔑 Working on a social network with auth, dashboard, stories, and media handling
-- ✨ I love clean code, smart UI/UX and modern web technologies
-- 🔗 Portfolio: [https://clecart.fr](https://clecart.fr)
+- ✨ J'adore les echecs et la randonnée
 
 ---
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://clecart.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-clecart.fr-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  
+<a href="https://www.linkedin.com/in/yannis-bondonga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yannis_Bondonga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/christophe-lecart" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Christophe_Lecart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:djlike@hotmail.fr">
-    <img src="https://img.shields.io/badge/Email-djlike@hotmail.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:bondonga.yannis@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-bondonga.yannis@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
