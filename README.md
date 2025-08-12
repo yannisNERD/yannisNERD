@@ -31,8 +31,6 @@
       <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
     </a>
     </br>
-    <br>
-    </br>
     • Cloud Providers :<br> 
     <a href="https://aws.amazon.com/fr/" target="_blank">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -40,8 +38,9 @@
     <a href="https://azure.microsoft.com/fr-fr" target="_blank">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     </a>
-    </br>
-    <br>
+    <a href="https://www.scaleway.com/fr/" target="_blank">
+      <img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white" alt="Scaleway" />
+    </a>
     </br>
     • Langages & Scripting :<br> 
     <a href="https://fr.wikibooks.org/wiki/Programmation_Bash" target="_blank">
@@ -53,10 +52,33 @@
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     </a>
-    
+    </br>
+    • Base de données / Gestion de données :<br>
+    <a href="https://mariadb.org/" target="_blank">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </a>
+    </br>
+    • Monitoring :<br>
+    <a href="https://mariadb.org/" target="_blank">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="Prometheus" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Grafana" />
+    </a>
+    </br>
+    • Gestion de projet :<br>
+    <a href="https://www.atlassian.com/fr/software/jira" target="_blank">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    </a>
+    <a href="https://trello.com/fr" target="_blank">
+        <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
+    </a>
+    </br>
 </div>
 
-- Base de données / Gestion de données :
 ---
 
 
