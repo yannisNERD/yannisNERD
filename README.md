@@ -4,10 +4,10 @@
 
 ---
 
-## 🚀 Tech Stack
+## 💻 My Skills Set
 
 - DevOps / CI-CD / Gestion de conteneurs :
-
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes)](https://skillicons.dev)
 
 ---
 
