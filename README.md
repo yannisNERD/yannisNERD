@@ -31,6 +31,8 @@
       <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
     </a>
     </br>
+    <br>
+    </br>
     • Cloud Providers :<br> 
     <a href="https://aws.amazon.com/fr/" target="_blank">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -38,6 +40,8 @@
     <a href="https://azure.microsoft.com/fr-fr" target="_blank">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     </a>
+    </br>
+    <br>
     </br>
     • Langages & Scripting :<br> 
     <a href="https://fr.wikibooks.org/wiki/Programmation_Bash" target="_blank">
