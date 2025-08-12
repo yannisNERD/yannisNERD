@@ -6,7 +6,7 @@
 
 ## 💻 My Skills Set
 
-- DevOps / CI-CD / Gestion de conteneurs :
+- DevOps / CI-CD / Gestion de conteneurs :<br>
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes)](https://skillicons.dev)
 
 ---
