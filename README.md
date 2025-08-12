@@ -92,7 +92,6 @@
 - Observabilité complète avec **Prometheus** et **Grafana**
 - Sécurité des conteneurs et CI/CD
 - Automatisation de pipelines avec **GitLab CI/CD** et **Jenkins**
-- Cloud computing sur **AWS** (EKS, ECS, CloudWatch, IAM)
 
 ---
 
