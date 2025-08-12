@@ -7,7 +7,13 @@
 ## 💻 My Skills Set
 
 - DevOps / CI-CD / Gestion de conteneurs :<br>
-[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,ansible,terraform,gitlab,jenkins)](https://skillicons.dev)
+
+- Cloud Providers :<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+
+- Langages & Scripting :<br>
+[![My Skills](https://skillicons.dev/icons?i=bash,powerShell,python)](https://skillicons.dev)
 
 ---
 
