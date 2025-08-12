@@ -47,14 +47,14 @@
     </a>
     </br>
     • Langages & Scripting :<br> 
-    <a href="https://fr.wikibooks.org/wiki/Programmation_Bash" target="_blank">
-        <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </a>
     <a href="https://learn.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.5" target="_blank">
         <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    </a>
+    <a href="https://fr.wikibooks.org/wiki/Programmation_Bash" target="_blank">
+        <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
     </a>
     </br>
     • Base de données / Gestion de données :<br>
@@ -96,12 +96,12 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 À propos de moi
 
 - 🎓 Ingénieur DevOps (Diplôme de niveau 5)
 - 🌍 France | 24 ans 
-- 🔑 Working on a social network with auth, dashboard, stories, and media handling
-- ✨ J'adore les echecs et la randonnée
+- 🚀 Motivé par les défis techniques et l’optimisation des infrastructures
+- ♟️ J'adore les echecs et la randonnée
 
 ---
 
