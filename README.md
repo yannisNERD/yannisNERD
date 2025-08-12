@@ -1,8 +1,6 @@
-<h1 align="center">Yannis Bondonga</h1>
-
 <p align="center">
-  <b> | React ⚛️ | TypeScript 🧠 | Go 🚀</b><br/>
-</p>            
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Yannis+BONDONGA;je+suis+Ing%C3%A9nieur%2FConsultant+DevOps" alt="Typing SVG" /></a>
+</p>  
 
 ---
 
